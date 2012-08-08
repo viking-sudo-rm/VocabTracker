@@ -1,0 +1,4 @@
+Present PP:[pres]
+Infinitive:[inf]
+Perfect PP:[perf]
+Perfect Part:[part]

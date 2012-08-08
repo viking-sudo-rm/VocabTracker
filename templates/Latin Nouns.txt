@@ -1,0 +1,3 @@
+Nominative:[nom]
+Genitive:[gen]
+Gender:[G.]
